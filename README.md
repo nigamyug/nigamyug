@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Yug Nigam
 
-<!--
-**nigamyug/nigamyug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Backend Developer
 
-Here are some ideas to get you started:
+I am a Java Backend Developer with 5 years of experience in building enterprise applications and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Java 17
+- Spring Boot
+- Microservices
+- REST APIs
+- Spring Security
+- Kafka
+- SQL
+- OAuth2 & JWT
+- Git
+- Azure DevOps
+
+## 💼 Domain Experience
+
+- Enterprise Payment Systems
+- Banking Integrations
+- Event-Driven Architecture
+- Secure Backend Development
+- Production Support
+
+## 📌 Current Focus
+
+- Event-Driven Architecture
+- Distributed Systems
+- Scalable Backend Applications
+- Modern Java Technologies
+
+## 📂 Featured Projects
+
+- Spring Boot Authentication Service
+- Spring Boot Kafka Service
+- Microservices Architecture
+
+## 📫 Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/yug-nigam/
+
+GitHub:
+https://github.com/nigamyug
